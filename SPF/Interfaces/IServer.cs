@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SPF
+namespace SPF.Interfaces
 {
-    public class Serializer
+    public interface IServer
     {
     }
 }
